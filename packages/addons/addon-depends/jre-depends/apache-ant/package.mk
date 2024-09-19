@@ -3,7 +3,7 @@
 # Copyright (C) 2020-present Team LibreELEC (https://libreelec.tv)
 
 PKG_NAME="apache-ant"
-PKG_VERSION="1.10.13"
+PKG_VERSION="1.10.15"
 PKG_SHA256="de0a860bf339e6975558f426772a6aa2c6ae0856215dd9aaf57aa2476d665664"
 PKG_LICENSE="Apache License 2.0"
 PKG_SITE="https://ant.apache.org/"
